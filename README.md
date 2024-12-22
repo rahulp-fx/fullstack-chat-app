@@ -1,2 +1,2 @@
 # DEPLOYED APP LINK
-- https://chat-app-67rz.onrender.com
+- https://fullstack-chat-app-2rw8.onrender.com
